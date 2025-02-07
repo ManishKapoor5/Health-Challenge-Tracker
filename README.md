@@ -26,9 +26,9 @@ Health Challenge Tracker is a single-page application (SPA) developed using Angu
 
 <h3> Screenshots</h3>
 
-![]https://github.com/ichhakumari/Health-Challenge-Tracker-master/blob/main/Screenshot%202024-07-20%20193534.png
+![]https://github.com/manishkapoor5/Health-Challenge-Tracker/blob/main/Screenshot%202024-07-20%20193534.png
 <br>
-![]https://github.com/ichhakumari/Health-Challenge-Tracker-master/blob/main/Screenshot%202024-07-20%20193713.png
+![]https://github.com/manishkapoor5/Health-Challenge-Tracker/blob/main/Screenshot%202024-07-20%20193713.png
 
 
 
@@ -84,5 +84,5 @@ The build artifacts will be stored in the `dist/` directory.</p>
 
 <h3> Contact</h3>
 
-For any questions, please contact [ichha2111@gmail.com](mailto:ichha2111@gmail.com).
+For any questions, please contact [manishkapoorrr13@gmail.com](manishkapoorrr13@gmail.com).
 
