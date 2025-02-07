@@ -45,7 +45,7 @@ Follow these steps to run the application locally.
 
 1. <b>Clone the Repository:</b>
 <p>
-    git clone https://github.com/manishkapoor5/health-challenge-tracker.git
+    git clone gh repo clone ManishKapoor5/Health-Challenge-Tracker.git
     cd Health-Challenge-Tracker-App
 </p>
 
